@@ -1,19 +1,31 @@
-# Getting Started
-Install the dependencies and run the project
-```
+# Basic Web/Mobile App
+
+A web and mobile application project built while learning web development through [Scrimba](https://scrimba.com/).
+
+## Overview
+
+This project showcases my practice and learning journey developing full-stack applications. It demonstrates skills in:
+- **JavaScript** (60.2%) - Core application logic
+- **HTML** (23.4%) - Markup and structure
+- **CSS** (16.4%) - Styling and responsive design
+
+## Getting Started
+
+Install the dependencies and run the project:
+
+```bash
 npm install
 npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+For more information about Vite configuration, visit https://vitejs.dev/
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Learning Resources
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+This project was developed as part of my learning journey with Scrimba:
+- [Scrimba Courses](https://scrimba.com/courses)
+- [Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
 
-Happy Coding!
+## About This Project
+
+This is a practice project created while learning web development. Feel free to explore the code and see how different concepts come together in a real application!
