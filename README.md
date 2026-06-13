@@ -4,10 +4,7 @@ A web and mobile application project built while learning web development throug
 
 ## Overview
 
-This project showcases my practice and learning journey developing full-stack applications. It demonstrates skills in:
-- **JavaScript** (60.2%) - Core application logic
-- **HTML** (23.4%) - Markup and structure
-- **CSS** (16.4%) - Styling and responsive design
+This project showcases my practice and learning journey developing full-stack applications.
 
 ## Getting Started
 
